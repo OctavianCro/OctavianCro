@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @OctavianCro
 - 👀 I’m interested in learning, traveling, video games and cars!
-- 🌱 I’m currently learning how to develop programs to solve new issues everyday
+- 🌱 I’m currently learning how to develop secure programs, and analyze vulnerabilites.
 - 💞️ I’m looking to collaborate on any variety of projects!
 - 📫 How to reach me, taycroftonco@gamil.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a beagle thats mixed with Turkish Pointer, he has a huge split nose!
 
 <!---
 OctavianCro/OctavianCro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
